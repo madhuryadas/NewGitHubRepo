@@ -1,4 +1,4 @@
 # NewGitHubRepo
 New project
 
-Adding another line
+Add a new line
